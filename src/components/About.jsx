@@ -1,6 +1,5 @@
-import "./About.css";
 import React from "react";
-// import resume from "../../assets/resume.jpg"
+import resume from "../assets/resume.jpg"
 
 export default function About() {
 
@@ -19,7 +18,7 @@ export default function About() {
           <a
             href="#contact"
             className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-            Work With Me
+            Contact Me
           </a>
           <a
             href="#projects"
@@ -32,7 +31,7 @@ export default function About() {
         <img
           className="object-cover object-center rounded"
           alt="resume-hero"
-          src=".././assets/resume.jpg"
+          src={resume}
         />
       </div>
     </div>

@@ -1,5 +1,6 @@
 // projects context for dislpaying on page
 
+
 export const projects = [
   {
     title: "MVC  Armory",
@@ -35,4 +36,4 @@ export const projects = [
   },
 ];
 
-export const skills = ["Javascript","Node","React","mySQL","animejs","Drag N Drop","HTML","CSS"];
+export const skills = ["Javascript","Node","React","mySQL","animejs","Drag N Drop","HTML","CSS","tailwindcss","Mongodb"];

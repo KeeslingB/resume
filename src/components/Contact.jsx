@@ -1,4 +1,4 @@
-import "./Contact.css";
+
 import React from "react";
 
 
@@ -50,7 +50,7 @@ export default function Contact() {
         <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
           Contact Me
         </h2>
-        <p className="leading-relaxed mb-5">Leading
+        <p className="leading-relaxed mb-5">
         </p>
         <div className="relative mb-4">
           <label htmlFor="name" className="leading-7 text-sm text-gray-400">

@@ -3,6 +3,10 @@
 
 
 
+tailwindcss
+Nodejs
+React + Vite
+Maps Api
 
 
 

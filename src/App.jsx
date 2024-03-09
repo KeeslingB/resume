@@ -1,9 +1,9 @@
-import './App.css'
-import Nav from "./components/Nav/Nav";
-import Skills from "./components/Skills/Skills";
-import Projects from "./components/Projects/Projects";
-import About from "./components/About/About";
-import Contact from "./components/Contact/Contact";
+import './index.css'
+import Nav from "./components/Nav";
+import Skills from "./components/Skills";
+import Projects from "./components/Projects";
+import About from "./components/About";
+import Contact from "./components/Contact";
 import React from "react";
 
 

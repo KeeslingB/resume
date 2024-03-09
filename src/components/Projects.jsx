@@ -1,8 +1,8 @@
-// import { CodeIcon } from "@heroicons/react/solid";
 import React from "react";
-import { projects } from "../../data.js";
+import { projects } from "../data.js";
 
-import "./Projects.css";
+// import { CodeIcon } from "@heroicons/react/solid";
+
 
 export default function Projects() {
 
@@ -14,11 +14,9 @@ export default function Projects() {
         <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
           
         </h1>
-        {/* <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-          facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-          fuga dolore.
-        </p> */}
+        <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
+          Here are just a few of the project's ive had a hand in Building!
+        </p>
       </div>
       <div className="flex flex-wrap -m-4">
         {projects.map((project) => (
