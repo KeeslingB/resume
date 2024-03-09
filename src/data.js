@@ -7,7 +7,7 @@ export const projects = [
     subtitle: "Drag N Drop - Handlebars",
     description:
       "This project features an application where the user to build an optimum character loadout. The user can select a helmet, shield, torso armor, weapon, gem, and boots. Each of these items has various stats for health, armor, attack, defense, and speed.",
-    image: "./project-imgs/mvc-armory.jpeg",
+    image: "./mvc-armory.jpeg",
     link: "https://github.com/KeeslingB/mvc-armory",
   },
   {
@@ -36,4 +36,4 @@ export const projects = [
   },
 ];
 
-export const skills = ["Javascript","Node","React","mySQL","animejs","Drag N Drop","HTML","CSS","tailwindcss","Mongodb"];
+export const skills = ["Javascript","Node","React","mySQL","animejs","Drag N Drop","HTML/CSS","tailwindcss","Mongodb"];
