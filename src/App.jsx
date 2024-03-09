@@ -13,9 +13,9 @@ function App() {
   return (
     <main className="text-gray-400 bg-gray-900 body-font">
       <Nav />
-      <Skills />
-      <Projects />
       <About />
+      <Projects />
+      <Skills />
       <Contact />
     </main>
   )

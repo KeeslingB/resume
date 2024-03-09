@@ -1,6 +1,6 @@
 import "./About.css";
 import React from "react";
-
+// import resume from "../../assets/resume.jpg"
 
 export default function About() {
 
@@ -13,9 +13,7 @@ export default function About() {
           <br className="hidden lg:inline-block" />Web Developer , Lifelong Learner. 
         </h1>
         <p className="mb-8 leading-relaxed">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-          laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-          Laborum, voluptas natus?
+          Nack for finding out how things work 
         </p>
         <div className="flex justify-center">
           <a
@@ -33,8 +31,8 @@ export default function About() {
       <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
         <img
           className="object-cover object-center rounded"
-          alt="hero"
-          src="./coding.svg"
+          alt="resume-hero"
+          src="./assets/resume.jpg"
         />
       </div>
     </div>
