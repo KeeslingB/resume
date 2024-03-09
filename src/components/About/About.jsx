@@ -32,7 +32,7 @@ export default function About() {
         <img
           className="object-cover object-center rounded"
           alt="resume-hero"
-          src="./assets/resume.jpg"
+          src="../assets/resume.jpg"
         />
       </div>
     </div>
