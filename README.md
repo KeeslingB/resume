@@ -1,5 +1,7 @@
 # React Resume
 
+[Live-Site Here (coming soon...)]()
+
 ## Table of Context
 
 - [Credits](#credits)
@@ -21,7 +23,7 @@
 
 ## Contribute.
 
-[![My Skills](https://skillicons.dev/icons?i=github)]()
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/KeeslingB/resume)
 
 
 ## Contact.

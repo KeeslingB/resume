@@ -3,7 +3,6 @@ import { projects } from "../data.js";
 
 // import { CodeIcon } from "@heroicons/react/solid";
 
-
 export default function Projects() {
 
   return (
