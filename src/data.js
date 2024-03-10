@@ -1,6 +1,6 @@
 // projects context for dislpaying on page
 
-
+// import mvc from "./project-imgs/mvc-armory.jpeg";
 
 export const projects = [
   {
