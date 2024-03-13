@@ -15,11 +15,16 @@
 
 ## Credits.
 
+ - [React Icons]()
+ - [tailwindcss]()
+
 ## Description.
 
 
 ## Technology Used.
-
+ - React + Vite.
+ - Tailwindcss.
+ - Netlify.
 
 ## Contribute.
 

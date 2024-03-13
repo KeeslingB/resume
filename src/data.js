@@ -6,10 +6,8 @@ import ecommerce from "./project-imgs/shopping-backend.png";
 import texteditor from "./project-imgs/jate.png";
 import employeetracker from "./project-imgs/employee-tracker.png";
 
-// Skills Imports Below --
 
-
-
+// Projects
 
 export const projects = [
   {
@@ -60,8 +58,6 @@ export const projects = [
   },
 ];
 
-
-
-// incons for skills and technology section
+// Skills 
 
 export const skills = ["Javascript","Express","Nodejs","Mongodb","MySQL","C","Vite","HTML/CSS"]
