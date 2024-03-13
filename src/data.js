@@ -1,9 +1,14 @@
+// Projects imports Below --
 import mvc from "./project-imgs/mvc-armory.jpeg";
 import madlibs from "./project-imgs/madlibs-example.png";
 import gamefinder from "./project-imgs/gamefinder.png";
 import ecommerce from "./project-imgs/shopping-backend.png";
 import texteditor from "./project-imgs/jate.png";
 import employeetracker from "./project-imgs/employee-tracker.png";
+
+// Skills Imports Below --
+
+
 
 
 export const projects = [
@@ -59,4 +64,4 @@ export const projects = [
 
 // incons for skills and technology section
 
-export const skills = ["Javascript","Node","React","mySQL","animejs","Drag N Drop","HTML/CSS","tailwindcss","Mongodb","Express"];
+export const skills = ["Javascript","Express","Nodejs","Mongodb","MySQL","C","Vite","HTML/CSS"]
