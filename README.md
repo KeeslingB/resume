@@ -1,6 +1,6 @@
 # React Resume
 
-[Live-Site Here (coming soon...)]()
+[Live-Site Here](https://brendankeesling.netlify.app/)
 
 ## Table of Context
 
