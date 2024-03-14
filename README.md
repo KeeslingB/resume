@@ -15,10 +15,15 @@
 
 ## Credits.
 
- - [React Icons]()
- - [tailwindcss]()
+ - [React Icons](https://react-icons.github.io/react-icons/)
+ - [tailwindcss](https://tailwind.build/classes)
+ - [freecodecamp](https://www.freecodecamp.org/news/build-portfolio-website-react/)
 
 ## Description.
+
+#### Simple Resume made with React / vite / tailwindcss , Photo examples bellow.
+![](./src/assets/resume01.png)
+![](./src/assets/resume02.png)
 
 
 ## Technology Used.
