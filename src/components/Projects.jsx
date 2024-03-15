@@ -14,7 +14,7 @@ export default function Projects() {
           Projects
         </h1>
         <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-          Here are some past projects I've had a hand in building!
+          Here are a few Project's i've built along with a group of Other Developers , aswell as a few projects i've built as homework assignment's for Bootcamp.
         </p>
       </div>
       <div className="flex flex-wrap -m-4">
