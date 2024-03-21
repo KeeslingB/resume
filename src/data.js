@@ -60,4 +60,4 @@ export const projects = [
 
 // Skills 
 
-export const skills = ["Javascript","Express","Nodejs","Mongodb","MySQL","C","Vite","HTML/CSS","Agile","Heroku/Netlify"]
+export const skills = ["Javascript","Express","Nodejs","Mongodb","MySQL","React","Vite","HTML/CSS","Agile","Heroku/Netlify"]
