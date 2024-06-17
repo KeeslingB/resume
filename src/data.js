@@ -6,7 +6,6 @@ import ecommerce from "./project-imgs/shopping-backend.png";
 import texteditor from "./project-imgs/jate.png";
 import employeetracker from "./project-imgs/employee-tracker.png";
 
-
 // Projects
 
 export const projects = [
@@ -45,19 +44,32 @@ export const projects = [
   {
     title: "Employee Tracker",
     subtitle: "JavaScript - mySQL",
-    description: "This app allows yout to view a employee dashboard displaying theyre corresponding position/wage/manager as well as give you the ability to make changes as needed all through the command line.",
+    description:
+      "This app allows yout to view a employee dashboard displaying theyre corresponding position/wage/manager as well as give you the ability to make changes as needed all through the command line.",
     image: employeetracker,
     link: "https://github.com/KeeslingB/employee-tracker",
   },
   {
     title: "J.A.T.E",
     subtitle: "JavaScript - Express",
-    description: "Simple note taking app that allows user to take notes that save regardless of internet connection for later viewing or making changes",
+    description:
+      "Simple note taking app that allows user to take notes that save regardless of internet connection for later viewing or making changes",
     image: texteditor,
     link: "https://github.com/KeeslingB/pwa-texteditor",
   },
 ];
 
-// Skills 
+// Skills
 
-export const skills = ["Javascript","Express","Nodejs","Mongodb","MySQL","React","Vite","HTML/CSS","Agile","Heroku/Netlify"]
+export const skills = [
+  "Javascript",
+  "Express",
+  "Nodejs",
+  "Mongodb",
+  "MySQL",
+  "React",
+  "Vite",
+  "HTML/CSS",
+  "Agile",
+  "Heroku/Netlify",
+];
